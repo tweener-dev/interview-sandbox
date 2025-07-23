@@ -1,6 +1,3 @@
-// UserProfile.tsx - Pull Request #247
-// "Add user profile editing functionality"
-
 import React, { useState, useEffect } from 'react';
 
 interface User {
